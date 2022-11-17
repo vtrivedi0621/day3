@@ -1,0 +1,40 @@
+
+body {
+    background-color:aqua;
+    border: 7px dashed red;
+    height: 100vh;
+    text-align: center;
+    
+}
+
+h1 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    display: inline-block;
+    font-size: 80px;
+    font-family: fantasy;
+    color:darkviolet;
+    text-shadow: 4px 4px blue;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: fantasy;
+    color:blue;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 7px solid red;
+    box-shadow: 5px 7px 7px blue;
+}
+
+p {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
